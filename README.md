@@ -1,7 +1,3 @@
 # dotfiles
 
-Download:
-i3wm
-i3blocks
-picom
-rofi
+Download: i3wm, i3blocks, picom, rofi, arc theme
